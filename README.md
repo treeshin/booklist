@@ -55,7 +55,7 @@
 |박상영 외||2019 제10회 젊은작가상 수상작품집|문학동네|
 
 ## (인문)
-|저자|역자|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;제목&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|출판사|
+|&nbsp;&nbsp;&nbsp;저자&nbsp;&nbsp;&nbsp;|역자|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;제목&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|출판사|
 |:---:|:---:|:---:|:---:|
 |샤를 드 몽테스키외|이명성|법의 정신|홍신문화사|
 |니콜로 마키아벨리|박성섭|군주론|서울대학교출판문화원|
@@ -105,7 +105,7 @@
 |브루노 라투르 외|홍성욱 외|인간 사물 동맹|이음|
 
 ## (정치 사회)
-|저자|역자|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;제목&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|출판사|
+|&nbsp;&nbsp;&nbsp;저자&nbsp;&nbsp;&nbsp;|역자|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;제목&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|출판사|
 |:---:|:---:|:---:|:---:|
 |폴 슈메이커|조효제|**진보와 보수의 12가지 이념**|후마니타스|
 |장 지글러|유영미|왜 세계의 절반은 굶주리는가?|갈라파고스|
@@ -125,7 +125,7 @@
 |조은주||가족과 통치|창비|
 
 ## (역사 평전)
-|저자|역자|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;제목&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|출판사|
+|&nbsp;&nbsp;&nbsp;저자&nbsp;&nbsp;&nbsp;|역자|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;제목&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|출판사|
 |:---:|:---:|:---:|:--:|
 |조영래||전태일 평전|전태일기념사업회|
 |김윤희||이완용 평전|한겨레출판사|
@@ -142,7 +142,7 @@
 |제바스티안 하프너|안인희|히틀러에 붙이는 주석|돌베개|
 
 ## (과학 기술)
-|저자|역자|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;제목&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|출판사|
+|&nbsp;&nbsp;&nbsp;저자&nbsp;&nbsp;&nbsp;|역자|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;제목&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|출판사|
 |:---:|:---:|:---:|:---:|
 |리처드 도킨스|이한음|악마의 사도|바다출판사|
 |에른스트 마이어|임지원|진화란 무엇인가|사이언스북스|
@@ -159,7 +159,7 @@
 |브루노 라투르 외|홍성욱 외|**인간 사물 동맹**|이음|
 
 ## (기타)
-|저자|역자|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;제목&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|출판사|
+|&nbsp;&nbsp;&nbsp;저자&nbsp;&nbsp;&nbsp;|역자|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;제목&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|출판사|
 |:---:|:---:|:---:|:---:|
 |청와대||2018 대한민국 헌법 개정안||
 |Whitehouse||Artificial Intelligence for the American People||
