@@ -1,5 +1,5 @@
 ## (문학)
-|저자|역자|제목&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|출판사|
+|저자|역자|제목 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|출판사|
 |:---:|:---:|:---:|:---:|
 |최인훈||광장|문학과지성사|
 |치누아 아체베|조규형|모든 것이 산산이 부서지다|민음사|
