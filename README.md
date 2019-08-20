@@ -53,6 +53,8 @@
 |최은영||내게 무해한 사람|문학동네|
 |시바타 쇼|권남희|**그래도 우리의 나날**|문학동네|
 |박상영 외||2019 제10회 젊은작가상 수상작품집|문학동네|
+|찰스 디킨스|성은애|두 도시 이야기|창비|
+|알베르 카뮈|김화영|페스트||
 
 ## (인문)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
