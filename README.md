@@ -125,6 +125,7 @@
 |김종영||지배받는 지배자|돌베개|
 |로버트 윌슨|허용범|대통령과 권력|나남|
 |조은주||가족과 통치|창비|
+|그레이엄 앨리슨|정혜윤|예정된 전쟁|세종서적|
 
 ## (역사 평전)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
