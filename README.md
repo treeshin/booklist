@@ -104,7 +104,6 @@
 |야나부 아키라|김옥희|번역어의 성립|마음산책|
 |테리 이글턴|전대호|**유물론**|갈마바람|
 |마르쿠스 가브리엘|전대호|**나는 뇌가 아니다**|열린책들|
-|브루노 라투르 외|홍성욱 외|인간 사물 동맹|이음|
 
 ## (정치 사회)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
