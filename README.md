@@ -159,6 +159,7 @@
 |이석영||초신성의 후예|사이언스북스|
 |임태훈 외||**한국테크노컬처 연대기**|알마|
 |브루노 라투르 외|홍성욱 외|**인간 사물 동맹**|이음|
+|전치형 외||기계비평들|워크룸프레스|
 
 ## (기타)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
