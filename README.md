@@ -54,7 +54,8 @@
 |시바타 쇼|권남희|**그래도 우리의 나날**|문학동네|
 |박상영 외||2019 제10회 젊은작가상 수상작품집|문학동네|
 |찰스 디킨스|성은애|두 도시 이야기|창비|
-|알베르 카뮈|김화영|페스트||
+|알베르 카뮈|김화영|페스트|민음사|
+|테드 창|김상훈|숨|엘리|
 
 ## (인문)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
@@ -104,6 +105,7 @@
 |야나부 아키라|김옥희|번역어의 성립|마음산책|
 |테리 이글턴|전대호|**유물론**|갈마바람|
 |마르쿠스 가브리엘|전대호|**나는 뇌가 아니다**|열린책들|
+|테리 이글턴|손성화|유머란 무엇인가|문학사상사|
 
 ## (정치 사회)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
