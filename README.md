@@ -145,6 +145,7 @@
 |장혜영||어른이 되면|우드스톡|
 |양재진||**복지의 원리**|한겨레출판사|
 |황두영||외롭지 않을 권리|시사IN북|
+|마이클 영|유강은|능력주의|이매진|
 
 ## (역사 평전)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
