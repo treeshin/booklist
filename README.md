@@ -121,6 +121,7 @@
 |프리드리히 키틀러|유현주|축음기, 영화, 타자기|문학과지성사|
 |아를레트 파르주|김정아|**아카이브 취향**|문학과지성사|
 |박해천||아파트 게임|휴머니스트|
+|마사 누스바움|임현경|타인에 대한 연민|알에이치코리아|
 
 ## (정치 사회)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
