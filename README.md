@@ -123,6 +123,7 @@
 |박해천||아파트 게임|휴머니스트|
 |마사 누스바움|임현경|타인에 대한 연민|알에이치코리아|
 |이졸데 카림|이승희|나와 타자들|민음사|
+|니컬러스 크롱크|김민철|인간 볼테르|후마니타스|
 
 ## (정치 사회)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
