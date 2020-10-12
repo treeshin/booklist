@@ -188,6 +188,7 @@
 |올리버 색스|양병찬|의식의 강|알마|
 |닉 보스트롬|조성진|슈퍼인텔리전스|까치|
 |조천호||파란하늘 빨간지구|동아시아|
+|로버트 액설로드|이경식|협력의 진화|시스테마|
 
 ## (기타)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
