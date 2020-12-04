@@ -216,5 +216,5 @@
 |&nbsp; &nbsp; &nbsp; 감독 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 장르 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 개봉 &nbsp; &nbsp; &nbsp;|
 |:---:|:---:|:---:|:--:|
 |홍상수|클레어의 카메라|드라마|2018|
-|짐 자무시|The dead don't die|코메디/공포|2019|
+|짐 자무시|The dead don't die|코미디/공포|2019|
 |로버트 에거스|The lighthouse|공포|2019|
