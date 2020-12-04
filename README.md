@@ -211,6 +211,10 @@
 |허주영 외||성매매 안하는 남자들|호랑이출판사|
 |오후||우리는 마약을 모른다|동아시아|
 |||GQ 2018년 3월호|두산매거진|
-|홍상수||클레어의 카메라||
-|짐 자무시||The dead don't die||
-|로버트 에거스||The lighthouse||
+
+## (영화)
+|&nbsp; &nbsp; &nbsp; 감독 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 장르 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 개봉 &nbsp; &nbsp; &nbsp;|
+|:---:|:---:|:---:|:--:|
+|홍상수|클레어의 카메라|드라마|2018|
+|짐 자무시|The dead don't die|코메디/공포|2019|
+|로버트 에거스|The lighthouse|공포|2019|
