@@ -220,3 +220,4 @@
 |로버트 에거스|The Lighthouse|공포|2019|
 |알폰소 쿠아론|Roma|드라마|2018|
 |파트리스 쉐로|La Reine Margot|드라마|1994|
+|론 하워드|Hillbilly Elegy|드라마|2020|
