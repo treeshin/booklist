@@ -212,7 +212,7 @@
 |오후||우리는 마약을 모른다|동아시아|
 |||GQ 2018년 3월호|두산매거진|
 
-## (영화)
+## (영화/시리즈)
 |&nbsp; &nbsp; &nbsp; 감독 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 장르 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 개봉 &nbsp; &nbsp; &nbsp;|
 |:---:|:---:|:---:|:--:|
 |홍상수|클레어의 카메라|드라마|2018|
@@ -221,3 +221,5 @@
 |알폰소 쿠아론|Roma|드라마|2018|
 |파트리스 쉐로|La Reine Margot|드라마|1994|
 |론 하워드|Hillbilly Elegy|드라마|2020|
+|크레이그 메이진(각본)|Chernobyl|역사/드라마|2019|
+
