@@ -124,6 +124,8 @@
 |마사 누스바움|임현경|타인에 대한 연민|알에이치코리아|
 |이졸데 카림|이승희|나와 타자들|민음사|
 |니컬러스 크롱크|김민철|인간 볼테르|후마니타스|
+|송은혜||음악의 언어|시간의 흐름|
+|움베르토 에코|박종대|미친 세상을 이해하는 척하는 방법|열린책들|
 
 ## (정치 사회)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
@@ -191,6 +193,7 @@
 |로버트 액설로드|이경식|협력의 진화|시스테마|
 |장대익||다윈의 식탁|바다출판사|
 |민구홍||새로운 질서|미디어버스|
+|이광석||데이터 사회 비판|책읽는수요일|
 
 ## (기타)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
