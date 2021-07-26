@@ -63,6 +63,12 @@
 |||문학과 사회 2020 봄호|문학과지성사|
 |신형철||정확한 사랑의 실험|마음산책|
 |호르헤 루이스 보르헤스|송병선|픽션들|민음사|
+|마거릿 애트우드|김선형|시녀 이야기|황금가지|
+|전하영 외||2021 제12회 젊은작가상 수상작품집|문학동네|
+|왕웨이롄 외|김택규|포스트 라이프|글항아리|
+|정지돈||모든 것은 영원했다|문학과지성사|
+|장강명||그믐, 또는 당신이 세계를 기억하는 방식|문학동네|
+|김소연||마음 사전|마음 산책|
 
 ## (인문)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
@@ -126,6 +132,7 @@
 |니컬러스 크롱크|김민철|인간 볼테르|후마니타스|
 |송은혜||음악의 언어|시간의 흐름|
 |움베르토 에코|박종대|미친 세상을 이해하는 척하는 방법|열린책들|
+|한병철|이재영|고통 없는 사회|김영사|
 
 ## (정치 사회)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
@@ -151,6 +158,8 @@
 |양재진||**복지의 원리**|한겨레출판사|
 |황두영||외롭지 않을 권리|시사IN북|
 |마이클 영|유강은|능력주의|이매진|
+|제시카 브루더|서제인|노마드랜드|엘리|
+|임명묵||K를 생각한다|사이드웨이|
 
 ## (역사 평전)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
@@ -194,6 +203,7 @@
 |장대익||다윈의 식탁|바다출판사|
 |민구홍||새로운 질서|미디어버스|
 |이광석||데이터 사회 비판|책읽는수요일|
+|문성실||사이언스 고즈 온|알마|
 
 ## (기타)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
