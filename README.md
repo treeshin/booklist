@@ -69,6 +69,7 @@
 |정지돈||모든 것은 영원했다|문학과지성사|
 |장강명||그믐, 또는 당신이 세계를 기억하는 방식|문학동네|
 |김소연||마음 사전|마음 산책|
+|편혜영||어쩌면 스무 번|문학동네|
 
 ## (인문)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
@@ -160,6 +161,7 @@
 |마이클 영|유강은|능력주의|이매진|
 |제시카 브루더|서제인|노마드랜드|엘리|
 |임명묵||K를 생각한다|사이드웨이|
+|뤼트허르 브레흐만|안기순|리얼리스트를 위한 유토피아 플랜|김영사|
 
 ## (역사 평전)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
