@@ -71,6 +71,7 @@
 |김소연||마음 사전|마음 산책|
 |편혜영||어쩌면 스무 번|문학동네|
 |앨리슨 벡델|이현|펀 홈|움직씨|
+|로맹 가리(에밀 아자르)|용경식|자기 앞의 생|문학동네|
 
 ## (인문)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
@@ -229,6 +230,7 @@
 |오후||우리는 마약을 모른다|동아시아|
 |||GQ 2018년 3월호|두산매거진|
 |렌털 아무것도 하지 않는 사람|김수현|아무것도 하지 않는 사람|미메시스|
+|유현준||공간의 미래|을유문화사|
 
 ## (영화/시리즈)
 |&nbsp; &nbsp; &nbsp; 감독 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 장르 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 개봉 &nbsp; &nbsp; &nbsp;|
@@ -240,4 +242,5 @@
 |파트리스 쉐로|La Reine Margot|드라마|1994|
 |론 하워드|Hillbilly Elegy|드라마|2020|
 |크레이그 메이진(각본)|Chernobyl|역사/드라마|2019|
+|고레에다 히로카즈|이지수|작은 이야기를 계속하겠습니다|바다출판사|
 
