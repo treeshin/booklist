@@ -231,6 +231,7 @@
 |||GQ 2018년 3월호|두산매거진|
 |렌털 아무것도 하지 않는 사람|김수현|아무것도 하지 않는 사람|미메시스|
 |유현준||공간의 미래|을유문화사|
+|고레에다 히로카즈|이지수|작은 이야기를 계속하겠습니다|바다출판사|
 
 ## (영화/시리즈)
 |&nbsp; &nbsp; &nbsp; 감독 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 장르 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 개봉 &nbsp; &nbsp; &nbsp;|
@@ -242,5 +243,4 @@
 |파트리스 쉐로|La Reine Margot|드라마|1994|
 |론 하워드|Hillbilly Elegy|드라마|2020|
 |크레이그 메이진(각본)|Chernobyl|역사/드라마|2019|
-|고레에다 히로카즈|이지수|작은 이야기를 계속하겠습니다|바다출판사|
 
