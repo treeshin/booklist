@@ -72,6 +72,7 @@
 |편혜영||어쩌면 스무 번|문학동네|
 |앨리슨 벡델|이현|펀 홈|움직씨|
 |로맹 가리(에밀 아자르)|용경식|자기 앞의 생|문학동네|
+|김보영||다섯 번쨰
 
 ## (인문)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
@@ -136,6 +137,7 @@
 |송은혜||음악의 언어|시간의 흐름|
 |움베르토 에코|박종대|미친 세상을 이해하는 척하는 방법|열린책들|
 |한병철|이재영|고통 없는 사회|김영사|
+|룰루 밀러|정지인|물고기는 존재하지 않는다|곰출판|
 
 ## (정치 사회)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
@@ -164,6 +166,8 @@
 |제시카 브루더|서제인|노마드랜드|엘리|
 |임명묵||K를 생각한다|사이드웨이|
 |뤼트허르 브레흐만|안기순|리얼리스트를 위한 유토피아 플랜|김영사|
+|율리아 에느버|김하현|한낮의 어둠|한겨레출판사|
+|뤼트허르 브레흐만|조현욱|휴먼카인드|인플루엔셜|
 
 ## (역사 평전)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
@@ -208,6 +212,10 @@
 |민구홍||새로운 질서|미디어버스|
 |이광석||데이터 사회 비판|책읽는수요일|
 |문성실||사이언스 고즈 온|알마|
+|전치형, 홍성욱||미래는 오지 않는다|문학과지성사|
+|기욤 피트롱|양영란|프로메테우스의 금속|갈라파고스|
+|버지니아 유뱅크스|김영선|자동화된 불평등|북트리거|
+|프란스 드 발|장대익, 황상익|침팬지 폴리틱스|바다출판사|
 
 ## (기타)
 |&nbsp; &nbsp; &nbsp; 저자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 역자 &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 제목 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 출판사 &nbsp; &nbsp; &nbsp;|
